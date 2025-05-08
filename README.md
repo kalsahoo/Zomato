@@ -39,7 +39,7 @@ Create the following visuals.
 - Average Rating
 #### d. Slicer 
 - showing list of rating colours
-- showing list of counties
+- showing list of countries
 - showing list of cities
 #### e. Grid 
 - showing list of restaurants
